@@ -1,6 +1,24 @@
 # net_ninja_world_time_app
 
-A new Flutter project.
+An app hat shows timezones of different countries/regions.
+
+
+![alt text](https://github.com/samarth1011/net_ninja_world_time_app/blob/master/assets/app_screenshots/WhatsApp%20Image%202021-10-14%20at%2010.35.39%20PM.jpeg)
+
+
+![alt text](https://github.com/samarth1011/net_ninja_world_time_app/blob/master/assets/app_screenshots/WhatsApp%20Image%202021-10-14%20at%2010.35.39%20PM%20(3).jpeg)
+
+
+![alt text](https://github.com/samarth1011/net_ninja_world_time_app/blob/master/assets/app_screenshots/WhatsApp%20Image%202021-10-14%20at%2010.35.39%20PM%20(2).jpeg)
+
+
+![alt text](https://github.com/samarth1011/net_ninja_world_time_app/blob/master/assets/app_screenshots/WhatsApp%20Image%202021-10-14%20at%2010.35.39%20PM%20(1).jpeg)
+
+
+
+
+
+
 
 ## Getting Started
 
